@@ -14,5 +14,15 @@ I used k-means clustering to identify and track molecule orientation changes fro
 
 <img src="https://github.com/i02132002/molecule_diffusion/blob/master/molecule_orientation_figure.png" width="500" />
 
+## Result
+I discovered that the charged molecules only translated as they hopped from one adsorption site to the next, while uncharged molecules also rotate as they hop.
+
+<img src="https://github.com/i02132002/molecule_diffusion/blob/master/scatter.png" width="500" />
+
+These two diffusion modes were proven as a result of the analysis:
+
+<img src="https://github.com/i02132002/molecule_diffusion/blob/master/diffusion_paths.png" width="500" />
+
+
 ## Full project
 Please see `MotionAnalyzer-demo.ipynb` for detailed analysis!
